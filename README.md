@@ -50,11 +50,17 @@ To set up Firebase in this project, you'll need to generate a service account ke
      # Add this to your .gitignore
      config/firebase-adminsdk-*.json
      ```
-### Run app
+### Run app locally
 
 ```bash
 streamlit run app.py
 ```
+
+### Deploy via Streamlit 
+1. Click the New App button on your Streamlit dashboard.
+2. Select the repository that contains your Streamlit app.
+3. Choose the branch (e.g., main) and the app file (app.py).
+4. Click Deploy.
 
 ### Analyze results
 
