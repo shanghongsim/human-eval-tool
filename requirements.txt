@@ -1,0 +1,5 @@
+streamlit
+firebase-admin
+nltk
+fuzzywuzzy
+python-Levenshtein

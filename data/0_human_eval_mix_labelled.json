@@ -1,0 +1,40 @@
+[
+    {
+        "question_set": "3",
+        "response": {
+            "neg": {
+                "correctness": "Wrong"
+            },
+            "pos": {
+                "citation_recall_sent0": "No support",
+                "correctness": "Wrong",
+                "citation_prec_sent1_citation0": "No support",
+                "citation_prec_sent1_citation1": "Partial support",
+                "citation_recall_sent1": "No support",
+                "citation_prec_sent0_citation1": "Partial support",
+                "citation_prec_sent0_citation0": "No support"
+            }
+        },
+        "timestamp": "2024-11-17T05:27:01.517869",
+        "rater": "XXX",
+        "question": "Why are the speeds of light and sound what they are? What causes these \"limits\"?",
+        "id": "AboFwgfuafO2JhlOEDoh"
+    },
+    {
+        "question_set": "3",
+        "response": {
+            "neg": {
+                "correctness": "Wrong",
+                "citation_recall": "No support"
+            },
+            "pos": {
+                "correctness": "Correct",
+                "citation_recall": "Full support"
+            }
+        },
+        "timestamp": "2024-11-16T09:06:36.699331",
+        "rater": "XXX",
+        "question": "Who helps santa claus in making his gifts?",
+        "id": "DXNqzjHP9RbN5iYcFtxU"
+    }
+]

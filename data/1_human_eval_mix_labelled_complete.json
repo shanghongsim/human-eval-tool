@@ -1,0 +1,164 @@
+[
+    {
+        "question_set": "3",
+        "response": {
+            "neg": {
+                "correctness": "Wrong",
+                "citation_recall_sent0": "No support"
+            },
+            "pos": {
+                "correctness": "Correct",
+                "citation_recall_sent0": "Full support"
+            }
+        },
+        "timestamp": "2024-11-16T09:06:36.699331",
+        "rater": "Navonil",
+        "question": "Who helps santa claus in making his gifts?",
+        "id": "DXNqzjHP9RbN5iYcFtxU",
+        "pos": "In the modern children's folklore of Santa Claus, it is the elves who assist Santa by making toys in his workshop at the North Pole [2].",
+        "neg": "In the film \"Planet of the Apes,\" the character Galen was played by Wright King [2].",
+        "docs": [
+            {
+                "id": "1285833",
+                "title": "Santa Claus Conquers the Martians",
+                "text": "Claus and Christmas, puts on one of Santa's spare suits and starts acting like Santa Claus. He goes to the toy factory to make toys, but Voldar mistakes him for Santa and kidnaps him. When Santa and the children come back to the factory to make more toys, they discover the machines have been tampered with. Voldar and Stobo come back to the factory to make a deal with Kimar, but when they see the real Santa Claus they realize that their plan has been foiled. Dropo, held hostage in a cave, tricks his guard Shim and escapes. Kimar then",
+                "score": 0.68212890625,
+                "answers_found": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "rec_score": 0.0
+            },
+            {
+                "id": "12575436",
+                "title": "Christmas elf",
+                "text": "States, Canada, and Britain, the modern children's folklore of Santa Claus typically includes diminutive elves at Christmas; green-clad elves with pointy ears and pointy hats as Santa's assistants or hired workers. They make the toys in a workshop located in the North Pole. In recent years, other toys\u2014usually high-tech toys like computers, video games, DVDs and DVD players, and even mobile phones\u2014have also been depicted as being ready for delivery, but not necessarily made, in the workshop as well. In this portrayal, elves slightly resemble nimble and delicate versions of the dwarves of Norse myth. Christmas elves have had their",
+                "score": 0.6875,
+                "answers_found": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "rec_score": 16.666666666666668
+            },
+            {
+                "id": "10436352",
+                "title": "The Christmas That Almost Wasn't",
+                "text": "to confiscate Santa's toys and have him, Mrs. Claus and the elves evicted. In order to raise money, Sam and Santa get jobs at a department store. Santa is nervous at first, but when the children arrive they naturally gravitate to him and he becomes a big success. Prune schemes to thwart Sam and Santa's plans. He buys the department store, has his butler destroy several toys and takes the damages out of Santa and Sam's paychecks. He gloats that Santa will never be able to pay his rent on time. Now broke again, Sam and Santa fear Christmas will",
+                "score": 0.68408203125,
+                "answers_found": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "rec_score": 0.0
+            },
+            {
+                "id": "7752533",
+                "title": "Santa vs. the Snowman 3D",
+                "text": "A flash of light zooms past The Snowman, and shatters his little flute. Consumed with curiosity, The Snowman set off to find out exactly \"what\" the mysterious light was. Eventually, The Snowman found himself at Santa's Village, a winter village filled with elves. The Snowman finds a toy workshop, where the elves were making various toys. Another elf comes in the workshop, and with him was the workshop owner: Santa Claus. While Santa was chatting with his elves, The Snowman finds a red-&-gold flute in the workshop. But after grabbing the flute, an alarm goes off, causing The Snowman to",
+                "score": 0.6767578125,
+                "answers_found": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "rec_score": 0.0
+            },
+            {
+                "id": "9288448",
+                "title": "The Secret World of Santa Claus",
+                "text": "2 DVDs from Cinedigm in the US. Each episode usually starts out showing Santa Claus preparing for Christmas and doing some Christmas-related activities at his workshop. Then two recurring villains (Gruzzlebeard and his partner Dudley) show up trying to foil Santa's plan and ruin the hopes of children. The two trolls usually end up actually finding themselves in a trap that they constructed themselves and the show usually ends showing that all of Santa's things end up turning out fine. Santa Claus is Father Christmas. (Also the main protagonist of the show). He owns a large workshop in the North",
+                "score": 0.67529296875,
+                "answers_found": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "rec_score": 0.0
+            }
+        ],
+        "dataset": "ASQA",
+        "nli": {
+            "pos": {
+                "citation_recall_sent0": 1
+            },
+            "neg": {
+                "citation_recall_sent0": 0
+            }
+        }
+    },
+    {
+        "question_set": "3",
+        "response": {
+            "neg": {
+                "correctness": "Wrong"
+            },
+            "pos": {
+                "citation_recall_sent0": "No support",
+                "correctness": "Wrong",
+                "citation_prec_sent1_citation0": "No support",
+                "citation_prec_sent1_citation1": "Partial support",
+                "citation_recall_sent1": "No support",
+                "citation_prec_sent0_citation1": "Partial support",
+                "citation_prec_sent0_citation0": "No support"
+            }
+        },
+        "timestamp": "2024-11-17T05:27:01.517869",
+        "rater": "Navonil",
+        "question": "Why are the speeds of light and sound what they are? What causes these \"limits\"?",
+        "id": "AboFwgfuafO2JhlOEDoh",
+        "pos": "The speed of light is not just a random threshold; it is a fundamental limit set by the universe [1][2]. This intrinsic property dictates that nothing can travel faster than light in a vacuum, establishing the ultimate speed boundary for all forms of energy, matter, and information [1][2].",
+        "neg": "I apologize, but I couldn't find an answer to your question in the search results.",
+        "docs": [
+            {
+                "title": "Speed Limit | Science Whys",
+                "text": "Speed Limit | Science Whys the speed the train is traveling. But the speed of light is always the speed of light, even if it comes from a moving source. This was recognized by Albert Einstein and is part of his special theory of relativity. The speed of light is the speed limit of the universe. What this means is that nothing travels faster than the speed of light. When we speak of the speed of light, we are not only talking about light. Light is just one part \u2013 the visible part \u2013 of the electromagnetic spectrum, which also includes radio waves, microwaves, infrared"
+            },
+            {
+                "title": "Why Is The Speed Of Light Considered The Cosmic Speed Limit?",
+                "text": "Why Is The Speed Of Light Considered The Cosmic Speed Limit? possibility that there are elementary particles moving faster than the speed of light. There is even a name for such (hypothetical) particles: tachyons. We never observed tachyons, and that\u2019s probably a good thing, too, as their existence would a) violate causality (a clever arrangement of tachyonic transmitters would allow us to send signals to the past), and b) may render the universe unstable as a whole. In fact, that\u2019s precisely what we believe happened in the extreme early universe: the infamous Higgs field began its existence back then as a tachyonic field, and its properties caused the entire universe to"
+            },
+            {
+                "title": "Speed Limit | Science Whys",
+                "text": "Speed Limit | Science Whys and ultraviolet waves, and X-rays. Thus, these too move at the speed of light. The speed of sound is much slower, which is why we hear thunder after we see lightning, though the two occur at the same time. For matter, the speed limit arises from the fact that, as the speed approaches that of light, it becomes harder and harder (requires more and more energy) to increase the speed. Eventually, nearly an infinite amount of energy is needed to approach 186,000 miles per second. Some of the fastest objects are particles in atom smashers. The acceleration process requires an"
+            },
+            {
+                "title": "special relativity - Why is travelling around the speed of light a problem? - Physics Stack Exchange",
+                "text": "special relativity - Why is travelling around the speed of light a problem? - Physics Stack Exchange your own question. How can we say that difference in energy between 99.99% and 100% of speed of light is infinite? Why can't we accelerate to the speed of light? Acceleration to lightspeed using gravity Why a body can not be accelerated to speed of light in vacuum? Speed of Light Question and Einstein Disk spinning at the speed of light Speed of light as a universal speed limit Why is light different than sound in terms of the assumptions we make regarding causality? Is the speed of light the speed limit or does light just happen to travel at"
+            },
+            {
+                "title": "Print Page - Is This Geometric Structure The Theory Of Everything?",
+                "text": "Print Page - Is This Geometric Structure The Theory Of Everything? of the gravitational wave speed as being the speed at which the information about the gravitational field strength is carried, like a lightwave speed is the speed at which the information about the light's frequency is carried. This may shed some light: The speed of light is often cited as the fastest anything can travel in our universe. While this might be true, the speed of light is the EFFECT and not the CAUSE of this phenomenon. So what's the cause? On this week's episode of Space Time, Matt helps explain what the speed of light REALLY is and why"
+            }
+        ],
+        "dataset": "ELI5",
+        "nli": {
+            "pos": {
+                "citation_recall_sent0": 0,
+                "citation_prec_sent0_citation0": 1,
+                "citation_prec_sent0_citation1": 0,
+                "citation_recall_sent1": 1,
+                "citation_prec_sent1_citation0": 1,
+                "citation_prec_sent1_citation1": 0
+            },
+            "neg": {}
+        }
+    }
+]
